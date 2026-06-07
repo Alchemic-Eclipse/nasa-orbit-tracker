@@ -3,7 +3,7 @@ import requests
 import time
 import math
 
-API_KEY = "bjwjjRu6SQd72GYbcREwBTVp7msan3WcJ72dxGAS"
+API_KEY = "DEMO_KEY"
 
 def impact_nrg(avg_dia, velocity_km_s):
 
