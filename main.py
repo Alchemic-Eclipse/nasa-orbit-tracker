@@ -99,7 +99,7 @@ for asteroid in asteroid_today:
    
     # Checking Hazard
     is_hazard = asteroid["is_potentially_hazardous_asteroid"]
-    print(f"The Hazard Status is {is_hazard}. \nTherefore {"💀 Hazardous" if is_hazard else "🦺 Safe"}")
+    print(f"The Hazard Status is {is_hazard}. \nTherefore {'💀 Hazardous' if is_hazard else '🦺 Safe'}")
 
     # Checking Impact
     joules, bombs = impact_nrg(dia_avg, velocity)
