@@ -86,14 +86,13 @@ for asteroid in asteroid_today:
 
 
 choice = int(input("Which no. of Asteroid woudld you like to know more about?\n(Please select 0 for all)\n"))
-# To be continued tomorrow
-              
+if choice == 0:
+    main()
 
 
 
 
-
-#                                  TOMORROW
+#                                  
 # ------------------------------PHYSICS CORE--------------------------------------------------
 
 
