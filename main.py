@@ -2,7 +2,7 @@ import datetime
 import requests
 import time
 
-API_KEY = "bjwjjRu6SQd72GYbcREwBTVp7msan3WcJ72dxGAS"
+API_KEY = "DEMO_KEY"
 
 
 #Current Date
