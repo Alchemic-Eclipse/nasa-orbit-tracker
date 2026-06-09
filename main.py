@@ -23,7 +23,7 @@ def impact_nrg(avg_dia, velocity_km_s):
     # Kinetic Energy
     T = (1/2) * mass * (velocity_m_s)**2 # Joules
 
-    # Converting to hiroshima bomb equivalents for better estimate 
+    # Converting to hiroshima bomb equivalents equivalents for better estimate 
     hiro_eq = T / (6.3 * 10**13) # 1 bomb on an avg
     return T, hiro_eq
 
@@ -114,7 +114,7 @@ for asteroid in asteroid_today:
     print(f"Equivalent to {bombs:.1f} Hiroshima Bombs")
 
 
-
+time.sleep(200)
 
 
 
