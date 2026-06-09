@@ -23,6 +23,7 @@ A terminal-based astrophysics tracking matrix that queries live data streams fro
 * **NASA NeoWS API** - Live Near-Earth Object Web Service database.
 * **Requests** - For asynchronous HTTP handling and JSON payload extraction.
 * **Math & Datetime** - Native calculation libraries for hyper-velocity physics.
+* **Gemini** - For debugging some f string cases, and to research about the capabilities and possibilities of the NASA NEO API.
 
 
 
